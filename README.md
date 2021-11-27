@@ -68,3 +68,9 @@ You will see a json like this
 ````
 
 <h2 align="center"> Jenkins Blue Ocean </h2>
+
+<h2 align="center"> Docker - Build and Run </h2>
+
+> docker build -t seek .
+
+> docker run -p 8090:8090 -t seek:latest
