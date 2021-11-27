@@ -74,3 +74,7 @@ You will see a json like this
 > docker build -t seek .
 
 > docker run -p 8090:8090 -t seek:latest
+
+OBS:
+  ACESSAR UM CONTAINER DOCKER COMO ROOR
+    docker exec -it -u root 17638f8682e7 /bin/bash
