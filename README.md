@@ -6,5 +6,6 @@
 
 #
 
-# seek
+![author](https://img.shields.io/badge/author-matheus-blue.svg)
+# SEEK
 Project to understand Elasticsearch and build CI pipeline
