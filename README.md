@@ -67,4 +67,4 @@ You will see a json like this
 }
 ````
 
-<h2 align="center"> Jenkins </h2>
+<h2 align="center"> Jenkins Blue Ocean </h2>

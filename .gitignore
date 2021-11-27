@@ -1,6 +1,6 @@
 Thumbs.db
 .DS_Store
-seek-micronaut/.gradle
+.gradle
 build/
 target/
 out/
