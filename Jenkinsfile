@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('build') {
       steps {
-        sh 'export JAVA_HOME=/path/to/openjdk-17'
+        sh 'export JAVA_HOME=/opt/java/openjdk'
         sh '''./gradlew build
 
 '''
