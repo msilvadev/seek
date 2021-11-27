@@ -3,7 +3,13 @@ pipeline {
   stages {
     stage('build') {
       steps {
-        sh './gradlew build'
+        sh '''
+
+
+echo $JAVA_HOME 
+./gradlew build
+
+'''
       }
     }
 
