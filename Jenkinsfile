@@ -7,6 +7,7 @@ pipeline {
 
 
 echo $JAVA_HOME'''
+        withGradle()
       }
     }
 
