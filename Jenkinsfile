@@ -12,6 +12,7 @@ pipeline {
 
     stage('build image docker') {
       steps {
+        sh 'pwd'
         sh 'docker build -t seek .'
         sh 'docker images'
       }
