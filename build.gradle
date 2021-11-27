@@ -38,3 +38,5 @@ java {
     targetCompatibility = JavaVersion.toVersion("17")
 }
 
+sourceCompatibility = 17
+targetCompatibility = 17
