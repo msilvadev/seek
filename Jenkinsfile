@@ -10,5 +10,12 @@ pipeline {
       }
     }
 
+    stage('build image docker') {
+      steps {
+        sh 'docker build -t seek .'
+        sh 'docker images'
+      }
+    }
+
   }
 }
