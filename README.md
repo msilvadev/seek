@@ -10,5 +10,15 @@
 #
 
 ![author](https://img.shields.io/badge/author-matheus-blue.svg)
-# SEEK
-Project to understand Elasticsearch and build CI pipeline
+
+<h1 align="center"> SEEK </h1>
+
+Project to understand and apply:
+
+       * Elasticsearch 
+       * Build CI pipeline - Jenkins
+       * Aws Lambda - Serverless
+       * Compare cold start and memory footprint between:
+              * Spring Boot
+              * Micronaut
+              * Quarkus
